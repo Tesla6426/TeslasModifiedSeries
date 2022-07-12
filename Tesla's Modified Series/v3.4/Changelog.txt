@@ -1,0 +1,55 @@
+Reworked the Greifing book
+Changed Greifing book's name to 'Tesla's Book of Destruction'
+Changed Layout of Greifing Kit
+Changed Name of Ghost Guardian and Ghost Guardian Spawner to Ghost Guardian Crash and Ghost Guardian Crash Spawner
+Made Tesla's Wither, Technoblade, Terminator, Giant, Warden, Guardian, Dragon, and Vex invincible
+Replaced Luck Potion with Invis Potion
+Buffed Tesla's Lighting Rod
+Buffed Tesla's TNT Spawner
+Buffed Tesla's Fang Spawner
+Buffed Tesla's Bee Spawner (Now can be used for intense lag)
+Bees from Tesla's Bee Spawner are now invincible
+Buffed Tesla's Dragon Spawner
+Gave Dragons from Tesla's Dragon Spawner AI
+Made Dragons from Tesla's Dragon Spawner Invulnerable
+Buffed Tesla's Wither Spawner
+Made Withers from Tesla's Wither Spawner Invincible
+Buffed Spawner Spawner
+Buffed Teslas's Water Spawner
+Buffed Teslas's Lava Spawner
+Buffed Tesla's End Crystal Spawner
+Buffed Tesla's Slime Spawner
+Buffed Tesla's Anvil Spawner
+Removed Tesla's Dripstone Spawner
+Added Arrow Spawner
+Reorganised Greifing Kit
+Removed Inventory Jammer
+Added 1 Megaton Thermonuclear Bomb
+Added 10 Megaton Thermonuclear Bomb
+Removed Lag Stand Spawner
+Removed Levitation potion from modified box
+Removed Wither from modified box
+Removed Hydrogen Cyanide from Modified box
+Added Tesla's Horse Armor
+Buffed Ghost Guardian
+Added Unbreabable Furnace Spawner
+Added Tesla's Furnaces
+Added Tesla's Squid Lag Spawner
+Added Tesla's Dragon Light
+Added ForceOp Box -6 7 forceops
+Added Tesla's Invincible Squid
+Removed all but health attribute modifier from Totems
+Added Totem Bag
+Added 129,000 more totems
+Fixed Graphical Error with Tesla's Deepslate, Tesla's Cargo Plane, Tesla's Plane, Tesla's Utility Book, Tesla's Terminator, Technoblade Spawn Egg and  Tesla's Vexation
+Removed Tesla's Lag Stand to to command legnth limitations
+Removed Graphics From Tesla's Rolling Bombs due to command legnth limitations
+Buffed Hydrogen Cyanide
+Buffed Tesla's Instakill Potion
+Removed some redundant effects form Hydrogen Cyanide to save command space
+Added Timed Explosive
+Added Sleeping Villager
+Added Tesla's Car
+Added Tesla's ForceOP Box
+Added 9 ForceOps
+Updated Tesla's Guide Book

@@ -1,0 +1,41 @@
+Removed Ghost Guardian Crash Spawner
+Removed Tesla's Furnace (place)
+Reworked Tesla's Modified Item Guide - Now stores data in a web server instead of the book (~5kb per kit saved)
+Added Tesla's Bed
+Removed Infinity Enchantment
+Added Tesla's Beehives
+Removed Italics
+Removed Tesla's Giant
+Added Tesla's Ghast
+Added More Enchantments to Elytra
+Optimised Arrow
+Added Tesla's Speed Boots
+Added Speed Attribute to offhand in Tesla's Speed in the Modified Box
+Added Tesla's Mending Destroyer
+Added more Attributes to Tesla's Totems
+Removed Lava and Water Buckets from Greifing Kit
+Added Tesla's Cripplers (save and spread)
+Removed tnt
+Removed tnt minecart
+Removed flint and steel
+Added Item Frame Crashes
+Moved Furnace Crash to Bundle
+Made Items in bundles only stack to 64 to avoid accedentally kicking yourself - excluding Totem Bag
+Added more PhysCrashes and Bundle
+Added Hydrogen Cyanide to Griefing Kit
+Removed Tesla's Warden
+Added Tesla's Golem
+Added a few more ForceOp variations
+Changed 'Tesla's Bomb' to 'Tesla's Anchor'
+Re-Added Tesla's Lag Stand
+Added Invincability to Lag Stand
+Added Fireball (Large)
+Sorted Shukers
+Optimised Items
+Fixed bug in Book of Destruction where `Fill TNT [@a]` would fill with Lava instead of TNT
+Removed Health Attribute from Greifing Kit
+Added Colors to Tesla's Projectile
+Added Warp Lobby
+Removed Italics from ForceOp Signs
+Added Full attributes to Crossbow and Bow
+Optimised arrows for most servers

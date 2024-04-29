@@ -1,4 +1,0 @@
-Fixed small bug in arrows
-Fixed Knockback Resistance Modifiers
-Added s596 to contributors list
-added hopper and campfire variations

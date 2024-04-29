@@ -1,3 +1,3 @@
-# TeslasModifiedSeries
-A series of insanely powerful minecraft nbt kits
+# TeslasModifiedSeries 
+A series of insanely powerful minecraft nbt kits. 
 enjoy :)

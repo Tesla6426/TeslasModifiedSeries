@@ -1,0 +1,1 @@
+close down minecraft before installing
